@@ -11,5 +11,4 @@ will be read from the files public key and message, respectively. The module wil
 (encrypted message) which will be stored in a file named ciphertext.
 
 Decryption: This module will take the public key, the private key and the ciphertext to be decrypted as the
-inputs. They will be read from the files public key, private key and ciphertext, respectively. The module
-will output the decrypted message and store it in a file named decrypted message.
+inputs. 
